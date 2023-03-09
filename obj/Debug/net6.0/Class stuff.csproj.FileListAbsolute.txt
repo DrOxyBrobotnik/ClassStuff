@@ -1,0 +1,15 @@
+C:\Users\redigering\source\repos\Class stuff\bin\Debug\net6.0\Class stuff.exe
+C:\Users\redigering\source\repos\Class stuff\bin\Debug\net6.0\Class stuff.deps.json
+C:\Users\redigering\source\repos\Class stuff\bin\Debug\net6.0\Class stuff.runtimeconfig.json
+C:\Users\redigering\source\repos\Class stuff\bin\Debug\net6.0\Class stuff.dll
+C:\Users\redigering\source\repos\Class stuff\bin\Debug\net6.0\Class stuff.pdb
+C:\Users\redigering\source\repos\Class stuff\obj\Debug\net6.0\Class stuff.csproj.AssemblyReference.cache
+C:\Users\redigering\source\repos\Class stuff\obj\Debug\net6.0\Class stuff.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redigering\source\repos\Class stuff\obj\Debug\net6.0\Class stuff.AssemblyInfoInputs.cache
+C:\Users\redigering\source\repos\Class stuff\obj\Debug\net6.0\Class stuff.AssemblyInfo.cs
+C:\Users\redigering\source\repos\Class stuff\obj\Debug\net6.0\Class stuff.csproj.CoreCompileInputs.cache
+C:\Users\redigering\source\repos\Class stuff\obj\Debug\net6.0\Class stuff.dll
+C:\Users\redigering\source\repos\Class stuff\obj\Debug\net6.0\refint\Class stuff.dll
+C:\Users\redigering\source\repos\Class stuff\obj\Debug\net6.0\Class stuff.pdb
+C:\Users\redigering\source\repos\Class stuff\obj\Debug\net6.0\Class stuff.genruntimeconfig.cache
+C:\Users\redigering\source\repos\Class stuff\obj\Debug\net6.0\ref\Class stuff.dll
